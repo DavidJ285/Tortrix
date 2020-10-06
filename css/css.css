@@ -38,3 +38,25 @@ input{
   background-color: white;
   font-size: 14px;
 }
+.imagenTortilla{
+  width: 100%;
+  height: 55%;
+  position: relative;
+  display: inline-block;
+}
+.textotortilla{
+  position: absolute;
+  font-size: 45px;
+  top: 100px;
+  left: 18%;
+}
+.imagenTortilla img{
+  width: 100%;
+  height: 100%;
+}
+.imagennodisponible{
+  width: 264px;
+  margin-top: 2%;
+  margin-left: 41%;
+  height: 255px;
+}
