@@ -53,3 +53,50 @@ flex-direction: row;
   margin-top: 6%;
   background-color: white;
 }
+@media screen and (max-width: 600px) {
+
+  .Redessociales{
+    font-size: 20px;
+    margin-left: -25px;
+    padding-top: 40px;
+  }
+  .redes{
+  width: 48%;
+  margin-top: -4%;
+  margin-left: 40%;
+  position: absolute;
+  height: 25px;
+  font-size: 10px;
+  display: flex;
+  flex-direction: row;
+  }
+  .redes p{
+  padding-left: 5px;
+  }
+  .redes a{
+    width: 100px;
+    border-radius: 30px;
+    height: 40px;
+    margin-top: 6%;
+    margin-right: -70px;
+    margin-left: -12%;
+    background-color: white;
+  }
+  .redes2{
+  width: 48%;
+  margin-top: 2%;
+  margin-left: 40%;
+  position: absolute;
+  height: 10px;
+  display: flex;
+  flex-direction: row;
+  }
+  .redes2 a{
+    width: 15px;
+    border-radius: 30px;
+    margin-left: 25px;
+    height: 15px;
+    margin-top: -1%;
+    background-color: white;
+  }
+}

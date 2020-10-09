@@ -231,3 +231,125 @@
   width: 100%;
   height: 100%;
 }
+@media screen and (max-width: 600px) {
+
+  .descripcion{
+    margin-top: 80%;
+    width: 100%;
+    height: 200px;
+    position: relative;
+    background-color: #E1B63D;
+  }
+  .descripcion p{
+    font-size: 20px;
+    padding-left: 20%;
+    padding-top: 15%;
+  }
+  .descripcion h1{
+    font-size: 10px;
+    padding-left: 20%;
+  }
+  .imagennodisponible2{
+    margin-top: -21%;
+    width: 28%;
+    background-color: red;
+    height: 60%;
+    margin-left: 60%;
+    position: absolute;
+  }
+  .imagennodisponible2 img{
+    width: 100%;
+    height: 100%;
+  }
+  .textoqueso{
+    width: 60%;
+    border-radius: 8px;
+    height: 20px;
+    text-align: center;
+    padding-top: 7px;
+    background-color: white;
+    color: black;
+    position: absolute;
+    font-size: 10px;
+    margin-top: -46%;
+    left: 22%;
+  }
+  .textopicante{
+    width: 60%;
+    border-radius: 8px;
+    height: 20px;
+    text-align: center;
+    padding-top: 7px;
+    background-color: white;
+    color: black;
+    position: absolute;
+    font-size: 10px;
+    margin-top: -46%;
+    left: 22%;
+  }
+  .textolimon{
+    width: 60%;
+    border-radius: 8px;
+    height: 20px;
+    text-align: center;
+    padding-top: 7px;
+    background-color: white;
+    color: black;
+    position: absolute;
+    font-size: 10px;
+    margin-top: -46%;
+    left: 22%;
+  }
+  .textochapi{
+    width: 60%;
+    border-radius: 8px;
+    height: 20px;
+    text-align: center;
+    padding-top: 7px;
+    background-color: white;
+    color: black;
+    position: absolute;
+    font-size: 10px;
+    margin-top: -46%;
+    left: 22%;
+  }
+  .textobarbacoa{
+    width: 60%;
+    border-radius: 8px;
+    height: 20px;
+    text-align: center;
+    padding-top: 7px;
+    background-color: white;
+    color: black;
+    position: absolute;
+    font-size: 10px;
+    margin-top: -46%;
+    left: 22%;
+  }
+  .textobarbacoa2{
+    width: 60%;
+    border-radius: 8px;
+    height: 20px;
+    text-align: center;
+    padding-top: 7px;
+    background-color: white;
+    color: black;
+    position: absolute;
+    font-size: 10px;
+    margin-top: -46%;
+    left: 22%;
+  }
+  .textopicante2{
+    width: 60%;
+    border-radius: 8px;
+    height: 20px;
+    text-align: center;
+    padding-top: 7px;
+    background-color: white;
+    color: black;
+    position: absolute;
+    font-size: 10px;
+    margin-top: -46%;
+    left: 22%;
+  }
+}
